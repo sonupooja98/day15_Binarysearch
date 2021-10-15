@@ -22,6 +22,8 @@ public class BSTImpl {
 		tree.printInorder(root);
 		System.out.println();
 		System.out.println("Number of Nodes in binary tree :" + tree.size());
+		System.out.println(tree.search(root, 63));
+		System.out.println(tree.search(root, 55));
 		}
 
 }
