@@ -39,4 +39,5 @@ public class BST {
 	public int size() {
 		return size;
 	}
+	
 }

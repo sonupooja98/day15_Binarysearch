@@ -1,5 +1,6 @@
 package com.birnarysearchtree;
 
+
 class Node {
 	int data;
 	Node left;
